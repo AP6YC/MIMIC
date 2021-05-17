@@ -40,7 +40,6 @@
 results/*
 !results/.gitkeep
 
-
 # IDE ignores
 .vs/
 .vscode/
