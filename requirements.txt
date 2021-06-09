@@ -1,2 +1,6 @@
 biopython
 python-Levenshtein
+sklearn
+matplotlib
+ipywidgets
+jupyterlab
